@@ -1,0 +1,19 @@
+.sideItem:hover {
+background-color: #F33823;
+color: white;
+
+
+}
+.trans:hover{
+    transform: translate(4%) ;
+    transition-duration: 200ms;
+    
+}
+
+    
+.sideItem{
+    padding: 6px;
+    border-radius: 7px;
+    color: rgb(111, 110, 110);
+    
+}
